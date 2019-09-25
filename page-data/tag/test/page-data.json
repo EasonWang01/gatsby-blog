@@ -1,1 +1,1 @@
-{"componentChunkName":"component---theme-src-templates-tag-tsx","path":"/tag/test","webpackCompilationHash":"d8e72fdba038183d0b0b","result":{"data":{"tag":{"name":"Test","color":null},"posts":{"edges":[]}},"pageContext":{"isCreatedByStatefulCreatePages":false,"tag":"Test"}}}
+{"componentChunkName":"component---theme-src-templates-tag-tsx","path":"/tag/test","webpackCompilationHash":"474d7eedf1fc2517607f","result":{"data":{"tag":{"name":"Test","color":null},"posts":{"edges":[]}},"pageContext":{"isCreatedByStatefulCreatePages":false,"tag":"Test"}}}

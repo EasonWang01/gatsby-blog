@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[nehalem]]></title><description><![CDATA[A Gatsby theme for %TOPICS%]]></description><link>https://nehalem.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Wed, 25 Sep 2019 08:45:45 GMT</lastBuildDate><item><title><![CDATA[Getting started]]></title><description><![CDATA[Nehalem is easy to install due to its packaged nature. Learn how to install it and the basics of the configuration capabilities.]]></description><link>https://nehalem.netlify.com/getting-started</link><guid isPermaLink="false">https://nehalem.netlify.com/getting-started</guid><pubDate>Tue, 30 Jul 2019 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[nehalem]]></title><description><![CDATA[A Gatsby theme for %TOPICS%]]></description><link>https://nehalem.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Wed, 25 Sep 2019 08:51:39 GMT</lastBuildDate><item><title><![CDATA[Getting started]]></title><description><![CDATA[Nehalem is easy to install due to its packaged nature. Learn how to install it and the basics of the configuration capabilities.]]></description><link>https://nehalem.netlify.com/getting-started</link><guid isPermaLink="false">https://nehalem.netlify.com/getting-started</guid><pubDate>Tue, 30 Jul 2019 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Important&lt;/strong&gt;: Before diving right into the installation check the &lt;a href=&quot;https://www.gatsbyjs.org/docs/themes/using-a-gatsby-theme&quot;&gt;Using a Gatsby Theme&lt;/a&gt; guide!&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ol&gt;
@@ -65,10 +65,10 @@ created: 2019-07-29
 &lt;p&gt;For further instructions check the other docs:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;creating-content&quot;&gt;How to create posts and pages&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/gatsby-blog/customization&quot;&gt;How to customize the theme&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/gatsby-blog/custom-pages&quot;&gt;How to create custom pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/customization&quot;&gt;How to customize the theme&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/custom-pages&quot;&gt;How to create custom pages&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Or check the &lt;a href=&quot;/gatsby-blog/features&quot;&gt;features&lt;/a&gt; to get an idea of all the possibilities with Nehalem!&lt;/p&gt;
+&lt;p&gt;Or check the &lt;a href=&quot;/features&quot;&gt;features&lt;/a&gt; to get an idea of all the possibilities with Nehalem!&lt;/p&gt;
 &lt;p&gt;I hope you enjoy this theme!&lt;/p&gt;
 &lt;p&gt;– Kevin&lt;/p&gt;
 &lt;hr&gt;
@@ -92,7 +92,7 @@ leads to a decent &lt;a href=&quot;https://www.gatsbyjs.org/docs/audit-with-ligh
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/gatsby-blog/static/563eb2f47a2eb8e9628e33e900c54c2f/0d08a/lighthouse.png&quot;
+    href=&quot;/static/563eb2f47a2eb8e9628e33e900c54c2f/0d08a/lighthouse.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -105,9 +105,9 @@ leads to a decent &lt;a href=&quot;https://www.gatsbyjs.org/docs/audit-with-ligh
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;lighthouse&quot;
         title=&quot;lighthouse&quot;
-        src=&quot;/gatsby-blog/static/563eb2f47a2eb8e9628e33e900c54c2f/0d08a/lighthouse.png&quot;
-        srcset=&quot;/gatsby-blog/static/563eb2f47a2eb8e9628e33e900c54c2f/135ae/lighthouse.png 300w,
-/gatsby-blog/static/563eb2f47a2eb8e9628e33e900c54c2f/0d08a/lighthouse.png 567w&quot;
+        src=&quot;/static/563eb2f47a2eb8e9628e33e900c54c2f/0d08a/lighthouse.png&quot;
+        srcset=&quot;/static/563eb2f47a2eb8e9628e33e900c54c2f/135ae/lighthouse.png 300w,
+/static/563eb2f47a2eb8e9628e33e900c54c2f/0d08a/lighthouse.png 567w&quot;
         sizes=&quot;(max-width: 567px) 100vw, 567px&quot;
       /&gt;
   &lt;/a&gt;
@@ -118,10 +118,10 @@ leads to a decent &lt;a href=&quot;https://www.gatsbyjs.org/docs/audit-with-ligh
 &lt;p&gt;Nehalem was built with component shadowing in mind. There are multiple placeholder components which are ready to be overwritten
 by you to create your very own version of Nehalem.&lt;/p&gt;
 &lt;h3 id=&quot;theming&quot;&gt;&lt;a href=&quot;#theming&quot; aria-label=&quot;theming permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Theming&lt;/h3&gt;
-&lt;p&gt;Colors can be customized by shadowing the theme file - see &lt;a href=&quot;/gatsby-blog/customization&quot;&gt;Customization&lt;/a&gt; for further details.&lt;/p&gt;
+&lt;p&gt;Colors can be customized by shadowing the theme file - see &lt;a href=&quot;/customization&quot;&gt;Customization&lt;/a&gt; for further details.&lt;/p&gt;
 &lt;h2 id=&quot;tagging&quot;&gt;&lt;a href=&quot;#tagging&quot; aria-label=&quot;tagging permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tagging&lt;/h2&gt;
 &lt;p&gt;The theme heavily relies on the usage of tags. Tag archives will be automatically generated and can be customized
-in terms of color and if they should be shown on the front page - see &lt;a href=&quot;/gatsby-blog/customization&quot;&gt;Customization&lt;/a&gt; for further details.&lt;/p&gt;
+in terms of color and if they should be shown on the front page - see &lt;a href=&quot;/customization&quot;&gt;Customization&lt;/a&gt; for further details.&lt;/p&gt;
 &lt;h2 id=&quot;archives&quot;&gt;&lt;a href=&quot;#archives&quot; aria-label=&quot;archives permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Archives&lt;/h2&gt;
 &lt;p&gt;Archive pages are available at:&lt;/p&gt;
 &lt;ul&gt;
@@ -131,7 +131,7 @@ in terms of color and if they should be shown on the front page - see &lt;a href
 &lt;/ul&gt;
 &lt;h2 id=&quot;table-of-contents&quot;&gt;&lt;a href=&quot;#table-of-contents&quot; aria-label=&quot;table of contents permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Table of contents&lt;/h2&gt;
 &lt;p&gt;Posts are automatically attached by a table of contents (like the one you can see on the left side) as long as they any headings (&lt;code class=&quot;language-text&quot;&gt;h2&lt;/code&gt; or
-&lt;code class=&quot;language-text&quot;&gt;h3&lt;/code&gt;). Posts without any headings are centered like you can see in the &lt;a href=&quot;/gatsby-blog/getting-started&quot;&gt;Getting Started&lt;/a&gt; post.&lt;/p&gt;
+&lt;code class=&quot;language-text&quot;&gt;h3&lt;/code&gt;). Posts without any headings are centered like you can see in the &lt;a href=&quot;/getting-started&quot;&gt;Getting Started&lt;/a&gt; post.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The TOC is toggleable on mobile for a better user experience!&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -174,7 +174,7 @@ having to worry too much about what props to pass - your IDE will tell you what 
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/gatsby-blog/static/cf4e89e3896006156ebd8d3bf95e1d8a/ef8bc/typed-components.png&quot;
+    href=&quot;/static/cf4e89e3896006156ebd8d3bf95e1d8a/ef8bc/typed-components.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -187,9 +187,9 @@ having to worry too much about what props to pass - your IDE will tell you what 
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Typed components are op&quot;
         title=&quot;Typed components are op&quot;
-        src=&quot;/gatsby-blog/static/cf4e89e3896006156ebd8d3bf95e1d8a/ef8bc/typed-components.png&quot;
-        srcset=&quot;/gatsby-blog/static/cf4e89e3896006156ebd8d3bf95e1d8a/135ae/typed-components.png 300w,
-/gatsby-blog/static/cf4e89e3896006156ebd8d3bf95e1d8a/ef8bc/typed-components.png 534w&quot;
+        src=&quot;/static/cf4e89e3896006156ebd8d3bf95e1d8a/ef8bc/typed-components.png&quot;
+        srcset=&quot;/static/cf4e89e3896006156ebd8d3bf95e1d8a/135ae/typed-components.png 300w,
+/static/cf4e89e3896006156ebd8d3bf95e1d8a/ef8bc/typed-components.png 534w&quot;
         sizes=&quot;(max-width: 534px) 100vw, 534px&quot;
       /&gt;
   &lt;/a&gt;
@@ -496,7 +496,7 @@ positi carpsere cessit: cruento quantoque ab. Fistula luctus.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/gatsby-blog/static/55e70043aa11ce7af44a2d74177d01b3/243ce/cat.jpg&quot;
+    href=&quot;/static/55e70043aa11ce7af44a2d74177d01b3/243ce/cat.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -509,13 +509,13 @@ positi carpsere cessit: cruento quantoque ab. Fistula luctus.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;cat&quot;
         title=&quot;cat&quot;
-        src=&quot;/gatsby-blog/static/55e70043aa11ce7af44a2d74177d01b3/c35de/cat.jpg&quot;
-        srcset=&quot;/gatsby-blog/static/55e70043aa11ce7af44a2d74177d01b3/afcd2/cat.jpg 300w,
-/gatsby-blog/static/55e70043aa11ce7af44a2d74177d01b3/82472/cat.jpg 600w,
-/gatsby-blog/static/55e70043aa11ce7af44a2d74177d01b3/c35de/cat.jpg 1200w,
-/gatsby-blog/static/55e70043aa11ce7af44a2d74177d01b3/98235/cat.jpg 1800w,
-/gatsby-blog/static/55e70043aa11ce7af44a2d74177d01b3/d7d8f/cat.jpg 2400w,
-/gatsby-blog/static/55e70043aa11ce7af44a2d74177d01b3/243ce/cat.jpg 4032w&quot;
+        src=&quot;/static/55e70043aa11ce7af44a2d74177d01b3/c35de/cat.jpg&quot;
+        srcset=&quot;/static/55e70043aa11ce7af44a2d74177d01b3/afcd2/cat.jpg 300w,
+/static/55e70043aa11ce7af44a2d74177d01b3/82472/cat.jpg 600w,
+/static/55e70043aa11ce7af44a2d74177d01b3/c35de/cat.jpg 1200w,
+/static/55e70043aa11ce7af44a2d74177d01b3/98235/cat.jpg 1800w,
+/static/55e70043aa11ce7af44a2d74177d01b3/d7d8f/cat.jpg 2400w,
+/static/55e70043aa11ce7af44a2d74177d01b3/243ce/cat.jpg 4032w&quot;
         sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
       /&gt;
   &lt;/a&gt;

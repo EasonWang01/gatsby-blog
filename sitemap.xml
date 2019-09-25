@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://nehalem.netlify.com/gatsby-blog/getting-started</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nehalem.netlify.com/gatsby-blog/features</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nehalem.netlify.com/gatsby-blog/custom-pages</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nehalem.netlify.com/gatsby-blog/customization</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nehalem.netlify.com/gatsby-blog/creating-content</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nehalem.netlify.com/gatsby-blog/lipsum</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nehalem.netlify.com/gatsby-blog/page</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nehalem.netlify.com/gatsby-blog/tag/theme</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nehalem.netlify.com/gatsby-blog/tag/programming</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nehalem.netlify.com/gatsby-blog/tag/demo</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nehalem.netlify.com/gatsby-blog/tag/test</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nehalem.netlify.com/gatsby-blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nehalem.netlify.com/gatsby-blog/archive/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nehalem.netlify.com/gatsby-blog/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nehalem.netlify.com/getting-started</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nehalem.netlify.com/features</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nehalem.netlify.com/custom-pages</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nehalem.netlify.com/customization</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nehalem.netlify.com/creating-content</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nehalem.netlify.com/lipsum</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nehalem.netlify.com/page</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nehalem.netlify.com/tag/theme</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nehalem.netlify.com/tag/programming</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nehalem.netlify.com/tag/demo</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nehalem.netlify.com/tag/test</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nehalem.netlify.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nehalem.netlify.com/archive/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nehalem.netlify.com/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
